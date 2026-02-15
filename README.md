@@ -51,3 +51,63 @@ It is designed to be **simple, secure, and student-friendly**, with a strong foc
 
 _Add screenshots for better presentation_
 
+
+---
+
+## 🔑 Demo
+
+👉 **Login Page:** https://learnai.tachneat.shop/login
+
+> Some features may require test credentials or school access.
+
+---
+
+## 🏫 Use Cases
+
+- Schools & educational institutions
+- Teachers & trainers
+- Students (K–12)
+- Rural & low-bandwidth schools
+- EdTech startups
+
+---
+
+## 📈 Roadmap
+
+- [ ] Teacher ↔ Student WebRTC connection
+- [ ] AI Teacher auto-reply in chat
+- [ ] Attendance tracking
+- [ ] Class recording & replay
+- [ ] Low-bandwidth mode
+- [ ] Parent dashboard
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome!
+
+1. Fork the repository
+2. Create your feature branch
+3. Commit your changes
+4. Open a Pull Request
+
+---
+
+## 📬 Contact
+
+- 🌐 Website: https://tachneat.shop  
+- 📧 Email: support@tachneat.shop  
+- 🏢 Organization: **Tachneat**
+
+---
+
+## 📜 License
+
+This project is licensed under the **MIT License**.
+
+---
+
+⭐ If you find this project useful, please **star the repository** on GitHub!
+
+
